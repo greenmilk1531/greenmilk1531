@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://github.com/greenmilk1531/greenmilk1531/blob/main/hello!!.png" />
+  <img src="https://github.com/greenmilk1531/weniv_blog/blob/main/hello!!.png" />
 </div>
 
 
