@@ -7,7 +7,7 @@
 
 
 
-> ## What are you using? 쓰고있는 하드웨어/소프트 웨어
+## What are you using? 쓰고있는 하드웨어/소프트 웨어
 
 > <img alt="Static Badge" src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberrypi&logoColor=white">
 > <img alt="Static Badge" src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black">
@@ -16,5 +16,13 @@
 > <img alt="Static Badge" src="https://img.shields.io/badge/macos-%23000000?style=for-the-badge&logo=macos">
 > <img alt="Static Badge" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge">
 > <img alt="Static Badge" src="https://img.shields.io/badge/vs-%238546E4?style=for-the-badge">
+> </br>
 
-## 
+## i can do these language 이런 언어들을 쓸수 있어요!
+
+> <img alt="Static Badge" src="https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=%233776AB">
+> <img alt="Static Badge" src="https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c&logoColor=%23A8B9CC">
+> <img alt="Static Badge" src="https://img.shields.io/badge/stript-by%20minecraft%20-%20gray?style=for-the-badge&logoColor=%23A8B9CC">
+> </br>
+> <img alt="Static Badge" src="https://img.shields.io/badge/dotnet-%23ECD53F?style=for-the-badge&logo=dotnet&logoColor=gray">
+> <img alt="Static Badge" src="https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white">
