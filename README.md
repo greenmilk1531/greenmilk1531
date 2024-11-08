@@ -12,6 +12,9 @@
 > <img alt="Static Badge" src="https://img.shields.io/badge/raspberrypi-black?style=for-the-badge&logo=raspberrypi&logoColor=white">
 > <img alt="Static Badge" src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black">
 > <img alt="Static Badge" src="https://img.shields.io/badge/aseprite-%237D929E?style=for-the-badge&logo=aseprite&logoColor=white">
-</br>
+> </br>
+> <img alt="Static Badge" src="https://img.shields.io/badge/macos-%23000000?style=for-the-badge&logo=macos">
+> <img alt="Static Badge" src="https://img.shields.io/badge/vscode-blue?style=for-the-badge">
+> <img alt="Static Badge" src="https://img.shields.io/badge/vs-%238546E4?style=for-the-badge">
 
 ## 
