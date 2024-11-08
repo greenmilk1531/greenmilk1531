@@ -3,7 +3,8 @@
 > <h3 align="center">통계</h3>
 > <div align="center">
 
-<img alt="Static Badge" src="https://img.shields.io/badge/streamlit-green?logo=streamlit">
-<img alt="Static Badge" src="https://img.shields.io/badge/python-blue?logo=python">
-<img alt="Static Badge" src="https://img.shields.io/badge/server-black?logo=raspberrypi">
+
+> ## What are you using? 쓰고있는 하드웨어/소프트 웨어
+
+> <img alt="Static Badge" src="https://img.shields.io/badge/server-black?logo=raspberrypi">
 
