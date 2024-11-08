@@ -7,4 +7,4 @@
 > ## What are you using? 쓰고있는 하드웨어/소프트 웨어
 
 > <img alt="Static Badge" src="https://img.shields.io/badge/server-black?logo=raspberrypi">
-
+> <img alt="Static Badge" src="https://img.shields.io/badge/streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=black">
