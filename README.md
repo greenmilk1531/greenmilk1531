@@ -5,6 +5,9 @@
 > </br>
 > <img alt="Static Badge" src="https://img.shields.io/badge/github-greenmilk1531-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=gray&color=%23181717">
 > <a href="https://velog.io/@greenmilk/posts"><img alt="Static Badge" src="https://img.shields.io/badge/velog-gray?style=for-the-badge&logo=velog&logoColor=%2320C997">
+> <br/>
+> <a href="https://discord.gg/GHQRB9BZjK"><img alt="Static Badge" src="https://img.shields.io/badge/discord-server-gray?style=for-the-badge&logo=discord&logoColor=white&labelColor=%235865F2">
+
 
 
 ## What are you using? 쓰고있는 하드웨어/소프트 웨어 🧑‍💻
