@@ -30,7 +30,7 @@
 > <img alt="Static Badge" src="https://img.shields.io/badge/dotnet-%23ECD53F?style=for-the-badge&logo=dotnet&logoColor=gray">
 > <img alt="Static Badge" src="https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=white">
 
-##  Project`s
+##  Project`s 하고있는 예술(?) 작품들 🖼️
 
 <a href="https://wjmax.kr/"><img alt="Static Badge" src="https://img.shields.io/badge/wjmax-page-gray?style=for-the-badge&logoColor=white&labelColor=white"></a>
   <a href="https://wjmax.kr/%EA%B2%80%EC%83%89"><img alt="Static Badge" src="https://img.shields.io/badge/wjmax-search-blue?style=for-the-badge&labelColor=gray">
