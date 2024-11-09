@@ -4,7 +4,7 @@
 > <img alt="Static Badge" src="https://img.shields.io/badge/naver-leejiho1531%40naver.com-%2303C75A?style=for-the-badge&logo=naver&logoColor=%2303C75A&labelColor=gray&color=%2303C75A">
 > </br>
 > <img alt="Static Badge" src="https://img.shields.io/badge/github-greenmilk1531-%23181717?style=for-the-badge&logo=github&logoColor=%23181717&labelColor=gray&color=%23181717">
-
+> <a href="https://velog.io/@greenmilk/posts"><img alt="Static Badge" src="https://img.shields.io/badge/velog-gray?style=for-the-badge&logo=velog&logoColor=%2320C997">
 
 
 ## What are you using? 쓰고있는 하드웨어/소프트 웨어 🧑‍💻
