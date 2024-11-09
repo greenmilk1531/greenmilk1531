@@ -31,5 +31,3 @@
 
 <a href="https://wjmax.kr/"><img alt="Static Badge" src="https://img.shields.io/badge/wjmax-page-gray?style=for-the-badge&logoColor=white&labelColor=white"></a>
   <a href="https://wjmax.kr/%EA%B2%80%EC%83%89"><img alt="Static Badge" src="https://img.shields.io/badge/wjmax-search-blue?style=for-the-badge&labelColor=gray">
-
-<iframe src="https://discord.com/widget?id=1304627508548993124&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
